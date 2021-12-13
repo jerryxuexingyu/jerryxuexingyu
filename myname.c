@@ -2,5 +2,5 @@
 
 
 main() {
-printf("\n薛星昱");
+printf("薛星昱\");
 }
